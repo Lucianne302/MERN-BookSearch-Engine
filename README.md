@@ -12,7 +12,7 @@
 * [Video] (#video)
 
 ## License
-ISC
+![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg) <br>
 
 ## Description
 AS AN avid reader I WANT to search for new books to read SO THAT I can keep a list of books to purchase
@@ -63,7 +63,7 @@ Start by running an "npm i" in your terminal followed by creating a .env file wi
 Got help from TA
 
 ## Contributors
-
+N/A
 
 ## Resources/links:
 Module 21: MERN
@@ -79,5 +79,6 @@ Module 21: MERN
 We tested did end user testing and confirmed the global state was passing.  Unit tested for rendering component trees and running the complete application.   
 
 ## Questions
-GitHub Username: Lucianne302 
-GitHub repo Link: https://github.com/Lucianne302/MERN-BookSearch-Engine.git 
+GitHub Username: Lucianne302 <br>
+GitHub repo Link: https://github.com/Lucianne302/MERN-BookSearch-Engine.git <br>
+Heroku link: https://hidden-lake-71005.herokuapp.com/ 

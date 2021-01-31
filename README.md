@@ -65,7 +65,7 @@ Got help from TA
 ## Contributors
 N/A
 
-## Resources/links:
+## Resources/links
 Module 21: MERN
 * NPM Express, https://www.npmjs.com/package/express-session <br> 
 * NPM bcrypt, https://www.npmjs.com/package/bcrypt <br> 
